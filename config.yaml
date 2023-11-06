@@ -1,0 +1,7 @@
+# ------------------------------------------------------------------------------
+# BASIC CONFIGURATION
+# data_name: str, currently used to load the .dat, .xml, and save the .pkl file
+# ------------------------------------------------------------------------------
+
+data_name: cps_00001
+column_filter_title: analysis_group_1
